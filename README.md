@@ -3,7 +3,7 @@
 Here's some information about me:
 
 - 🔭 I’m currently working on **Flutter Apps (Mobile/Web/Desktop)**.
-- 🌱 I’m currently learning **NodeJS** and **ReactJS**.
+- 🌱 I’m currently learning **SwiftUI** and **ReactJS**.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awais305/).
