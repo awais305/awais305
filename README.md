@@ -1,24 +1,17 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Here's some information about me:
+I'm a passionate Flutter developer, slowly **Mastering the Dart Arts** 🧙‍♂️ — one cross-platform app at a time.
 
-- 🔭 I’m currently working on **Flutter Apps (Mobile/Web/Desktop)**.
-- 🌱 I’m currently learning **SwiftUI** and **ReactJS**.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/awais305/).
-- 😄 Pronouns: he/him/his.
-<!--
-**awais305/awais305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building Flutter apps across **Mobile, Web, and Desktop**.  
+- 🌱 Exploring new horizons with **SwiftUI** and **ReactJS**.  
+- 👯 Looking to **collaborate on open-source projects** — especially in the Flutter ecosystem.  
+- 💬 Ask me anything about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) — always happy to chat!  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/awais305/).
+- 😄 Pronouns: **he/him/his**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for stopping by! 🚀
+
